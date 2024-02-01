@@ -18,14 +18,6 @@ app=Flask(__name__)
 #trim
 #striptags
 
-#safe
-#capitalize
-#lower
-#upper
-#title
-#trim
-#striptags
-
 def index():
     first_name = "John"
     stuff="This is <strong>Bold</strong> Text"
